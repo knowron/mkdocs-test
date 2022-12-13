@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+         <loc>None./</loc>
+         <lastmod>2022-12-13</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="Nonede/"/>
+         
+    </url>
+    <url>
+         <loc>NoneAdmin%20Documentation/Security%20and%20Access/product_access_groups/</loc>
+         <lastmod>2022-12-13</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Admin%20Documentation/Security%20and%20Access/product_access_groups/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="Nonede/Admin%20Documentation/Security%20and%20Access/product_access_groups/"/>
+         
+    </url>
+    <url>
+         <loc>NoneAdmin%20Documentation/Security%20and%20Access/roles_and_permissions/</loc>
+         <lastmod>2022-12-13</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Admin%20Documentation/Security%20and%20Access/roles_and_permissions/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="Nonede/Admin%20Documentation/Security%20and%20Access/roles_and_permissions/"/>
+         
+    </url>
+    <url>
+         <loc>NoneAdmin%20Documentation/updates/_dec_updated/</loc>
+         <lastmod>2022-12-13</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Admin%20Documentation/updates/_dec_updated/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="Nonede/Admin%20Documentation/updates/_dec_updated/"/>
+         
+    </url>
+    <url>
+         <loc>NoneAdmin%20Documentation/updates/</loc>
+         <lastmod>2022-12-13</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Admin%20Documentation/updates/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="Nonede/Admin%20Documentation/updates/"/>
+         
+    </url>
+</urlset>
